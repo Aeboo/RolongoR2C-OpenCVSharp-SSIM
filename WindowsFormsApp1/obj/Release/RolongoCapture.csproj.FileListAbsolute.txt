@@ -1,0 +1,5 @@
+E:\学习资料\WindowsFormsApp1\WindowsFormsApp1\obj\Release\RolongoCapture.csprojAssemblyReference.cache
+E:\学习资料\WindowsFormsApp1\WindowsFormsApp1\obj\Release\RolongoCapture.Form1.resources
+E:\学习资料\WindowsFormsApp1\WindowsFormsApp1\obj\Release\RolongoCapture.Properties.Resources.resources
+E:\学习资料\WindowsFormsApp1\WindowsFormsApp1\obj\Release\RolongoCapture.csproj.GenerateResource.cache
+E:\学习资料\WindowsFormsApp1\WindowsFormsApp1\obj\Release\RolongoCapture.csproj.CoreCompileInputs.cache
